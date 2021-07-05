@@ -1,5 +1,5 @@
 # TFB-04-store
-git clone <SSH>    
+git clone <_SSH>    
 
 git config --global user.email "Your email" #下載建置    
 git config --global user.name "Your Name" #下載建置     
@@ -11,3 +11,6 @@ git pull origin <commit_id>  #更新本地版本
 
 git branch <新版本號> #新增平行分支    
 git merge <新版本號> #合併平行分支    
+
+     
+=====================================     
